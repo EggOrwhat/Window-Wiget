@@ -1,0 +1,8 @@
+Name: Windows Wiget
+Version: 0.1 [BETA]
+Description: This program is a minimalistic desktop widget showing the weather, user-selected country and city of the user's choice
+URL: none, initial startup
+Category: Widget/Utility
+Language: C#
+Author: Nikitin
+Platform: Windows 11/10/8 

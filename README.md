@@ -1,4 +1,4 @@
-# Window-Wiget
+# Windows Wiget
 BETA [ONLY Britan]
 Want a widget for your desktop? Here it is! A simple widget, with no unnecessary information. 
 Just the temperature of your city, and an animation. 
